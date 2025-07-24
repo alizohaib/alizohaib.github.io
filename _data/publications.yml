@@ -20,3 +20,22 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+    
+  - title: A Wall Behind A Wall: Emerging Regional Censorship in China
+    authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
+    conference_short: IEEE S&P (Oakland) 2025
+    pdf: https://gfw.report/publications/sp25/data/paper/paper.pdf
+
+  - title: I'll Shake Your Hand - What Happens After DNS Poisoning
+    authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
+    conference_short: FOCI 2025
+    pdf: https://petsymposium.org/foci/2025/foci-2025-0015.php
+
+  - title: Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China
+    authors: Ali Zohaib, Qiang Zao, Jackson Sippe, Abdulrahman Alaraj, Amir Houmansadr, Zakir Durumeric, Eric Wustrow
+    conference_short: USENIX Security 2025
+    
+
+  
+
+  
