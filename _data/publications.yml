@@ -11,13 +11,14 @@ main:
     # notes: Early Accept
 
   - title: Automated Detection of IPv6 Privacy Leakage in Home Networks
-    authors: Ali Zohaib and  Amir Houmansadr
+    authors: Ali Zohaib and Amir Houmansadr
     conference_short: FOCI 2023
     conference: Free and Open Communications on the Internet
     pdf: https://people.cs.umass.edu/~amir/papers/FOCI23_IPv6.pdf
     
   - title: A Wall Behind A Wall: Emerging Regional Censorship in China
     authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
+    conference_short: S&P 2025
     conference: IEEE S&P (Oakland) 2025
     pdf: https://gfw.report/publications/sp25/data/paper/paper.pdf
 
@@ -29,5 +30,6 @@ main:
 
   - title: Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China
     authors: Ali Zohaib, Qiang Zao, Jackson Sippe, Abdulrahman Alaraj, Amir Houmansadr, Zakir Durumeric, Eric Wustrow
+    conference_short: USENIX Security 2025
     conference: USENIX Security 2025
     pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib
