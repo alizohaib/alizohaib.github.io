@@ -1,35 +1,51 @@
 main:
 
+  - title: "CensorAlert: Leveraging LLM Agents for Automated Censorship Report Aggregation and Analysis"
+    authors: Ali Zohaib, Jade Sheffey, Mingshi Wu, and Amir Houmansadr
+    conference_short: FOCI 2026
+    conference: Free and Open Communications on the Internet
+    year: 2026
+    pdf: https://www.petsymposium.org/foci/2026/foci-2026-0002.php
+
+  - title: "Geedge Cases: Censorship Measurement Insights from the Geedge Networks Leak"
+    authors: Jade Sheffey, Ali Zohaib, Mingshi Wu, and Amir Houmansadr
+    conference_short: FOCI 2026
+    conference: Free and Open Communications on the Internet
+    year: 2026
+    pdf: https://www.petsymposium.org/foci/2026/foci-2026-0006.php
+
+  - title: "Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China"
+    authors: Ali Zohaib, Qiang Zao, Jackson Sippe, Abdulrahman Alaraj, Amir Houmansadr, Zakir Durumeric, and Eric Wustrow
+    conference_short: USENIX Security 2025
+    conference: USENIX Security Symposium
+    year: August 2025
+    pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib
+    notes: Best Paper Honorable Mention
+
+  - title: "I'll Shake Your Hand: What Happens After DNS Poisoning"
+    authors: Jade Sheffey, Ali Zohaib, Daniel Kang, Zakir Durumeric, Amir Houmansadr, and Qiang Wu
+    conference_short: FOCI 2025
+    conference: Free and Open Communications on the Internet
+    year: 2025
+    pdf: https://petsymposium.org/foci/2025/foci-2025-0015.php
+
+  - title: "A Wall Behind A Wall: Emerging Regional Censorship in China"
+    authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
+    conference_short: "S&P 2025"
+    conference: IEEE Symposium on Security and Privacy (Oakland)
+    year: May 2025
+    pdf: https://gfw.report/publications/sp25/data/paper/paper.pdf
+
   - title: Investigating Traffic Analysis Attacks on Apple iCloud Private Relay
-    authors: Ali Zohaib, Jade Sheffey and Amir Houmansadr
+    authors: Ali Zohaib, Jade Sheffey, and Amir Houmansadr
     conference_short: AsiaCCS 2023
     conference: ACM Asia Conference on Computer and Communications Security
+    year: 2023
     pdf: https://people.cs.umass.edu/~amir/papers/AsiaCCS23-Private-Relay.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
   - title: Automated Detection of IPv6 Privacy Leakage in Home Networks
     authors: Ali Zohaib and Amir Houmansadr
     conference_short: FOCI 2023
     conference: Free and Open Communications on the Internet
+    year: 2023
     pdf: https://people.cs.umass.edu/~amir/papers/FOCI23_IPv6.pdf
-    
-  - title: "A Wall Behind A Wall: Emerging Regional Censorship in China"
-    authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
-    conference_short: "S&P 2025"
-    conference: "IEEE S&P (Oakland) 2025"
-    pdf: https://gfw.report/publications/sp25/data/paper/paper.pdf
-
-  - title: "I'll Shake Your Hand - What Happens After DNS Poisoning"
-    authors: Mingshi Wu, Ali Zohaib, Zakir Durumeric, Amir Houmansadr, and Eric Wustrow
-    conference_short: FOCI 2025
-    conference: Free and Open Communications on the Internet
-    pdf: https://petsymposium.org/foci/2025/foci-2025-0015.php
-
-  - title: "Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China"
-    authors: Ali Zohaib, Qiang Zao, Jackson Sippe, Abdulrahman Alaraj, Amir Houmansadr, Zakir Durumeric, Eric Wustrow
-    conference_short: USENIX Security 2025
-    conference: USENIX Security 2025
-    pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib

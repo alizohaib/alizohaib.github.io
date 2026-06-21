@@ -1,0 +1,25 @@
+# Each entry has:
+#   date: any string you like (e.g. "Aug 2025", "August 2025", "2025-08")
+#   sort_date: ISO date (YYYY-MM-DD) used ONLY for ordering — most recent first
+#   content: HTML/markdown-ish snippet shown after the date. Inline links allowed.
+
+main:
+  - date: "May 2026"
+    sort_date: 2026-05-15
+    content: 'Started an internship at <a href="https://research.cloudflare.com/">Cloudflare Research</a>.'
+
+  - date: "Mar 2026"
+    sort_date: 2026-03-15
+    content: 'I gave a talk at the <a href="https://www.rsaconference.com/experts/Ali-Zohaib">RSA Conference</a>.'
+
+  - date: "Aug 2025"
+    sort_date: 2025-08-15
+    content: 'Our paper <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib"><em>Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China</em></a> received a <strong>Best Paper Honorable Mention</strong> at USENIX Security 2025.'
+
+  - date: "May 2025"
+    sort_date: 2025-05-15
+    content: 'Presented our work on QUIC Censorship at <a href="https://securitylunch.stanford.edu/archive">Stanford Security Lunch</a>.'
+
+  - date: "May 2025"
+    sort_date: 2025-05-01
+    content: 'Our paper <a href="https://gfw.report/publications/sp25/data/paper/paper.pdf"><em>A Wall Behind A Wall: Emerging Regional Censorship in China</em></a> appeared at IEEE S&P (Oakland) 2025.'
