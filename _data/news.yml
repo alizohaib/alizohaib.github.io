@@ -4,6 +4,10 @@
 #   content: HTML/markdown-ish snippet shown after the date. Inline links allowed.
 
 main:
+  - date: "Jul 2026"
+    sort_date: 2026-07-20
+    content: 'Our <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib">paper</a> received the <strong>Best Practical Paper</strong> award at <a href="https://foci.community/awards.html">FOCI</a> 2026.'
+
   - date: "May 2026"
     sort_date: 2026-05-15
     content: 'Started an internship at <a href="https://research.cloudflare.com/">Cloudflare Research</a>.'
