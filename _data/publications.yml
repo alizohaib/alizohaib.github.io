@@ -20,7 +20,10 @@ main:
     conference: USENIX Security Symposium
     year: August 2025
     pdf: https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib
-    notes: Best Paper Honorable Mention
+    notes: |
+      Best Paper Honorable Mention
+      FOCI Best Practical Paper 2026
+
 
   - title: "I'll Shake Your Hand: What Happens After DNS Poisoning"
     authors: Jade Sheffey, Ali Zohaib, Daniel Kang, Zakir Durumeric, Amir Houmansadr, and Qiang Wu

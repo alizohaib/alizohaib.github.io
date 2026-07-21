@@ -9,7 +9,7 @@
     <div class="pub-authors">{{ link.authors }}</div>
     <div class="pub-venue"><em>{{ link.conference }}</em>{% if link.year %}, {{ link.year }}{% endif %}</div>
     {% if link.notes %}
-    <div class="pub-notes"><strong>{{ link.notes }}</strong></div>
+    <div class="pub-notes"><strong>{{ link.notes | strip | newline_to_br }}</strong></div>
     {% endif %}
   </div>
 {% endfor %}
