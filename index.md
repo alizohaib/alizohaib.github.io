@@ -9,3 +9,5 @@ Prior to starting my Ph.D., I received my bachelor's from Lahore University of M
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}

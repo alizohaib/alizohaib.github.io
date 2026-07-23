@@ -1,0 +1,9 @@
+# Each entry has:
+#   name: display name of the project (required)
+#   link: URL (optional; if present, name becomes a clickable link)
+#   description: one-line description (required)
+
+main:
+  - name: QUICView
+    link: https://quic.azohaib.com/
+    description: Tool to visualize how your client negotiates QUIC, TLS, and HTTP/3.

@@ -176,6 +176,35 @@ a:hover {
   color: #1565c0;
 }
 
+/* Projects */
+.projects-list {
+  margin-top: 0.8em;
+}
+
+.project-entry {
+  margin-bottom: 1.2em;
+}
+
+.project-name {
+  font-weight: 600;
+  font-size: 1.02rem;
+  line-height: 1.4;
+}
+
+.project-name a {
+  color: #1565c0;
+}
+
+.project-name a:hover {
+  text-decoration: underline;
+}
+
+.project-description {
+  font-size: 0.97rem;
+  color: #444;
+  margin-top: 2px;
+}
+
 .site-footnote {
   margin-top: 3em;
   color: #888;
