@@ -1,4 +1,10 @@
 main:
+  - title: "Technical Analysis of the Geedge Networks Firewall Source Code Leak"
+    authors: Anna Ablove, Johnnie Walker, Ben Wolin, Niklas Niere, Felix Lange, Aaron Ortwein, Armin Huremagic, Richa Priyanka, Ali Zohaib, Jade Sheffey, Nico Heitmann, J. Alex Halderman, Juraj Somorovsky, Amir Houmansadr, Roya Ensafi, Mingshi Wu, and Eric Wustrow
+    conference_short: USENIX Security 2026
+    conference: USENIX Security Symposium
+    year: 2026
+    pdf: https://www.usenix.org/system/files/usenixsecurity26-ablove.pdf
 
   - title: "CensorAlert: Leveraging LLM Agents for Automated Censorship Report Aggregation and Analysis"
     authors: Ali Zohaib, Jade Sheffey, Mingshi Wu, and Amir Houmansadr
