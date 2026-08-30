@@ -4,6 +4,10 @@
 #   content: HTML/markdown-ish snippet shown after the date. Inline links allowed.
 
 main:
+  - date: "Sep 2026"
+    sort_date: 2026-09-04
+    content: 'Our paper "CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models" was accepted at CCS 2026.'
+    
   - date: "Jul 2026"
     sort_date: 2026-07-20
     content: 'Our <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zohaib">paper</a> received the <strong>Best Practical Paper</strong> award at <a href="https://foci.community/awards.html">FOCI</a> 2026.'

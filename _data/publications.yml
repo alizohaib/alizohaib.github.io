@@ -1,4 +1,10 @@
 main:
+  - title: "CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models"
+    authors: Ali Zohaib, Jackson Sippe, Jade Sheffey, Mingshi Wu, Eric Wustrow, and Amir Houmansadr
+    conference_short: CCS 2026
+    conference: ACM Conference on Computer and Communications Security
+    year: 2026
+
   - title: "Technical Analysis of the Geedge Networks Firewall Source Code Leak"
     authors: Anna Ablove, Johnnie Walker, Ben Wolin, Niklas Niere, Felix Lange, Aaron Ortwein, Armin Huremagic, Richa Priyanka, Ali Zohaib, Jade Sheffey, Nico Heitmann, J. Alex Halderman, Juraj Somorovsky, Amir Houmansadr, Roya Ensafi, Mingshi Wu, and Eric Wustrow
     conference_short: USENIX Security 2026
