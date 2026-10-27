@@ -20,6 +20,8 @@ linkedin: https://www.linkedin.com/in/alizoh/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/pp.png
+# Shown instead of "avatar" on a random half of page loads. Remove to disable.
+avatar_alt: ./assets/img/16-bit-ali.png
 favicon: ./assets/img/pp.png
 favicon_dark: ./assets/img/pp.png
 
