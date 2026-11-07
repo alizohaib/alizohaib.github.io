@@ -46,14 +46,6 @@
         {% if site.avatar %}
         <img class="avatar" src="{{ site.avatar }}" alt="avatar" />
         {% if site.avatar_alt %}
-        <script>
-          (function () {
-            var img = document.querySelector('img.avatar');
-            if (img && Math.random() < 0.5) {
-              img.src = '{{ site.avatar_alt }}';
-            }
-          })();
-        </script>
         {% endif %}
         {% endif %}
 
