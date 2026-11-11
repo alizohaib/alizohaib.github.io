@@ -1,4 +1,11 @@
 main:
+  - title: "Avenger: Looking Into The Future of Censorship With Genetic Algorithms"
+    authors: Jade Sheffey, Ali Zohaib, Mingshi Wu, and Amir Houmansadr
+    conference_short: NDSS 2027
+    conference: https://people.cs.umass.edu/~amir/papers/2027-NDSS-Avenger.pdf
+    year: 2027
+    pdf: https://people.cs.umass.edu/~amir/papers/2026-CCS-CircumVolve.pdf
+
   - title: "CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models"
     authors: Ali Zohaib, Jackson Sippe, Jade Sheffey, Mingshi Wu, Eric Wustrow, and Amir Houmansadr
     conference_short: CCS 2026
