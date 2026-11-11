@@ -2,7 +2,7 @@ main:
   - title: "Avenger: Looking Into The Future of Censorship With Genetic Algorithms"
     authors: Jade Sheffey, Ali Zohaib, Mingshi Wu, and Amir Houmansadr
     conference_short: NDSS 2027
-    conference: Network and Distributed System Security
+    conference: Network and Distributed System Security (NDSS) Symposium
     year: 2027
     pdf: https://people.cs.umass.edu/~amir/papers/2027-NDSS-Avenger.pdf
 
